@@ -6,4 +6,6 @@
 
 ## Links 
 
-(None yet)
+https://www.linkedin.com/in/mona-hidalgo 
+
+https://www.instagram.com/mona_hidalgo_/
