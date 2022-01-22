@@ -10,7 +10,6 @@
 
 ## Links 
 
-Link to LinkedIn with a `title` attribute: [Linkedin](https://www.linkedin.com/in/mona-hidalgo) 
+ [Linkedin](https://www.linkedin.com/in/mona-hidalgo) 
 
-
-Link to Instagram without a `title` attribute: [Instagram](https://www.instagram.com/mona_hidalgo_/)
+ [Instagram](https://www.instagram.com/mona_hidalgo_/)
