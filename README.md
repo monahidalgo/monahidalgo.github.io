@@ -4,9 +4,9 @@
 
 ## My current project is the Endangered Orgaisms Tracker App.
 
-## Hello World: Java console application 
+* Hello World: Java console application 
 
-## Hello World: Android app 
+* Hello World: Android app 
 
 ## Links 
 
