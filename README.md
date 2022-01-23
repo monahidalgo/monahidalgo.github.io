@@ -4,9 +4,9 @@
 
 ## My current project is the Endangered Orgaisms Tracker App.
 
-* [Hello World: Java console application](https://github.com/monahidalgo/hello-world-java) 
+* [Hello World: Java console application]({https://github.com/monahidalgo/hello-world-java}) 
 
-* [Hello World: Android app](https://github.com/monahidalgo/hello-world-android) 
+* [Hello World: Android app]({https://github.com/monahidalgo/hello-world-android}) 
 
 ## Links 
 
