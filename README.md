@@ -2,7 +2,7 @@
 
 ## I'm currently working on an Android App.
 
-## My current project is the Endangered Organisms Tracker App.
+## My current project is the Endangered  Organisms Tracker App.
 
 * [Hello World: Java console application]({https://github.com/monahidalgo/hello-world-java}) 
 
