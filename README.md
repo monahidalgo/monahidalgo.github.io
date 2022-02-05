@@ -1,6 +1,6 @@
 # Mona Hidalgo 
 
-## I'm currently working on an Android App.
+## I'm currently working on Android Apps. Java/Kotlin/HTML/CSS/JavaScript/
 
 ## My current project is the Endangered  Organisms Tracker App.
 
